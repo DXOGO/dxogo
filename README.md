@@ -9,3 +9,10 @@ Computer Science and Engineering Student @ University of Aveiro
   <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api?username=dxogo&?count_private=true&show_icons=true&theme=tokyonight"/>
   <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DXOGO&show_icons=true&layout=compact&theme=dracula&langs_count=10&hide=html,c%23"/>
 </a>
+
+<p align="center">
+  <a href="https://open.spotify.com/user/dxogo" target="_blank">
+    <img height="300px" src="https://spotify-github-profile.vercel.app/api/view?uid=dxogo&cover_image=true&theme=default" /> 
+  </a>  
+</p> 
+
