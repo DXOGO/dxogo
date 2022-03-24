@@ -12,7 +12,7 @@ Computer Science and Engineering Student @ University of Aveiro
 
 <p align="center">
   <a href="https://open.spotify.com/user/dxogo" target="_blank">
-    <img height="300px" src="https://spotify-github-profile.vercel.app/api/view?uid=dxogo&cover_image=true&theme=default" /> 
+    <img height="300px" src="https://spotify-github-profile.vercel.app/api/view?uid=hugofpaiva&cover_image=true&theme=default" /> 
   </a>  
 </p> 
 
