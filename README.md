@@ -9,6 +9,7 @@ Computer Science and Engineering Student @ University of Aveiro
   <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api?username=dxogo&?count_private=true&show_icons=true&theme=tokyonight"/>
   <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DXOGO&show_icons=true&layout=compact&theme=dracula&langs_count=10&hide=html,c%23"/>
 </a>
+
 <a>
 ![github contribution grid snake animation](https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg)
 </a>
