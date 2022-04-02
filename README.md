@@ -1,5 +1,4 @@
-# Diogo Cruz
-Computer Science and Engineering Student @ University of Aveiro
+Computer Science and Engineering @ University of Aveiro
 
 ### Contact me:
 
