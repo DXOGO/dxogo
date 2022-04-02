@@ -10,4 +10,4 @@ Computer Science and Engineering Student @ University of Aveiro
   <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DXOGO&show_icons=true&layout=compact&theme=dracula&langs_count=10&hide=html,c%23"/>
 </a>
 <p></p>
-![github contribution grid snake animation](https://github.com/DXOGO/dxogo/blob/output/github-contribution-grid-snake.svg)
+![snake gif](https://github.com/DXOGO/dxogo/blob/output/github-contribution-grid-snake.svg)
