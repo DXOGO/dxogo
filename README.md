@@ -7,7 +7,7 @@ Computer Science and Engineering Student @ University of Aveiro
 
 <a href="https://github.com/DXOGO">
   <img height="180em" align="left" width="60%" src="https://github-readme-stats.vercel.app/api?username=dxogo&?count_private=true&show_icons=true&theme=tokyonight"/>
-  <img height="180em" width="40%" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DXOGO&show_icons=true&layout=compact&theme=dracula&langs_count=10&hide=html,c%23"/>
+  <img height="180em" width="40%" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DXOGO&show_icons=true&layout=compact&theme=dracula&langs_count=10&hide=html,c%23"/>
 </a>
 
 ![snake gif](https://github.com/DXOGO/dxogo/blob/output/github-contribution-grid-snake.svg)
