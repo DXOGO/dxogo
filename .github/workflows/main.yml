@@ -56,26 +56,5 @@ jobs:
           plugin_achievements_threshold: C
           plugin_achievements_display: compact
           plugin_languages_skipped: dxogo
-          plugin_languages_threshold: 2%
+          plugin_languages_threshold: 1%
           
-      - name: Icons
-        uses: lowlighter/metrics@latest
-        with:
-          filename: metrics.plugin.topics.icons.svg
-          token: NOT_NEEDED
-          base: ""
-          plugin_topics: yes
-          plugin_topics_limit: 0
-          plugin_topics_mode: icons
-          
-      - name: Spotify - Recently listed
-        uses: lowlighter/metrics@latest
-        with:
-          filename: metrics.plugin.music.recent.svg
-          token: NOT_NEEDED
-          base: ""
-          plugin_music: yes
-          plugin_music_provider: spotify
-          plugin_music_mode: recent
-          plugin_music_token: "b8b553e8741f411f9456db8e8eb2d71f, 324d16abb3634c52a1236bbc87b3e144, AQBAG3aYfuIDK3DLEojts4VUt3tX9shx1dW7S42aEO9lcWOp1l9WQygL_BTEHwMbwseQ1aGs2l1-GEZ88k5z0bwomBqd5bJIajvzZIk5J1oq2mu_wVLqaxe-sXFfK17RhWw"
-          plugin_music_limit: 2
