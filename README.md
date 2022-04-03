@@ -7,6 +7,6 @@ Computer Science and Engineering @ University of Aveiro
 
 ![Metrics](/github-metrics.svg)
 
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=dxogo&cover_image=true&theme=natemoo-re)](https://spotify-github-profile.vercel.app/api/view?uid=dxogo&redirect=true)
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=dxogo&cover_image=true&theme=default)](https://spotify-github-profile.vercel.app/api/view?uid=dxogo&redirect=true)
 
 ![Snake gif](https://github.com/DXOGO/dxogo/blob/output/github-contribution-grid-snake.svg)
