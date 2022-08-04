@@ -1,4 +1,4 @@
-#### BsC in Computer Science and Engineering @ University of Aveiro
+#### BSc in Computer Science and Engineering @ University of Aveiro
 
 ### Contact me:
 
