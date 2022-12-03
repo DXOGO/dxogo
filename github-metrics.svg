@@ -2372,7 +2372,7 @@
                                 <div class="title">
                                     <span class="prefix">Great</span>
                                     developer
-                                    <span class="gh">ranked 1.28m out of 103m users</span>
+                                    <span class="gh">ranked 1.29m out of 103m users</span>
                                     <div class="value-wrapper">
                                         <div class="value">29</div>
                                     </div>
@@ -2828,7 +2828,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Inspirer
-                                    <span class="gh">ranked 4.32m out of 359m repositories</span>
+                                    <span class="gh">ranked 4.32m out of 361m repositories</span>
                                     <div class="value-wrapper">
                                         <div class="value">1</div>
                                     </div>
@@ -2967,7 +2967,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 3 Dec 2022, 06:25:01  with lowlighter/metrics@3.29.0</span>
+                <span>Last updated 3 Dec 2022, 12:36:20  with lowlighter/metrics@3.29.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
