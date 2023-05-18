@@ -219,10 +219,10 @@
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="351.7314009857806" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="351.7314009857806" y="0" width="70.99392168118922" height="8" fill="#3572A5"/>
-                    <rect mask="url(#languages-bar)" x="422.7253226669698" y="0" width="27.751898349780866" height="8" fill="#b07219"/>
-                    <rect mask="url(#languages-bar)" x="450.4772210167507" y="0" width="9.522778983249271" height="8" fill="#e34c26"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="351.66907783514574" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="351.66907783514574" y="0" width="71.06992840742942" height="8" fill="#3572A5"/>
+                    <rect mask="url(#languages-bar)" x="422.7390062425752" y="0" width="27.74171059695696" height="8" fill="#b07219"/>
+                    <rect mask="url(#languages-bar)" x="450.48071683953214" y="0" width="9.519283160467879" height="8" fill="#e34c26"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
@@ -234,7 +234,7 @@
                                 JavaScript
                             </div>
                             <small>
-                                <div>76.46%</div>
+                                <div>76.45%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -258,7 +258,7 @@
                                 Python
                             </div>
                             <small>
-                                <div>15.43%</div>
+                                <div>15.45%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -2274,6 +2274,11 @@
                                 <path fill="#ebedf0" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2 0,1 z"/>
                                 <path fill="#ebedf0" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1 1.7,2 z"/>
                             </g>
+                            <g transform="translate(-5.1, 9)">
+                                <path fill="#ebedf0" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
+                                <path fill="#ebedf0" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2 0,1 z"/>
+                                <path fill="#ebedf0" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1 1.7,2 z"/>
+                            </g>
                         </g>
                     </g>
                 </svg>
@@ -2522,7 +2527,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Influencer
-                                    <span class="gh">ranked 158k out of 115m users</span>
+                                    <span class="gh">ranked 148k out of 115m users</span>
                                     <div class="value-wrapper">
                                         <div class="value">62</div>
                                     </div>
@@ -2813,7 +2818,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Inspirer
-                                    <span class="gh">ranked 4.69m out of 401m repositories</span>
+                                    <span class="gh">ranked 4.74m out of 401m repositories</span>
                                     <div class="value-wrapper">
                                         <div class="value">1</div>
                                     </div>
@@ -2952,7 +2957,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 17 May 2023, 18:22:33  with lowlighter/metrics@3.33.0</span>
+                <span>Last updated 18 May 2023, 01:36:01  with lowlighter/metrics@3.33.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
