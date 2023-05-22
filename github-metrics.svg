@@ -219,10 +219,10 @@
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="351.5271627662559" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="351.5271627662559" y="0" width="71.2535311542656" height="8" fill="#3572A5"/>
-                    <rect mask="url(#languages-bar)" x="422.78069392052157" y="0" width="27.706570608290097" height="8" fill="#b07219"/>
-                    <rect mask="url(#languages-bar)" x="450.48726452881164" y="0" width="9.51273547118837" height="8" fill="#e34c26"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="351.49419934955324" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="351.49419934955324" y="0" width="71.29347413502633" height="8" fill="#3572A5"/>
+                    <rect mask="url(#languages-bar)" x="422.7876734845796" y="0" width="27.701374923449123" height="8" fill="#b07219"/>
+                    <rect mask="url(#languages-bar)" x="450.4890484080287" y="0" width="9.510951591971319" height="8" fill="#e34c26"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
@@ -234,7 +234,7 @@
                                 JavaScript
                             </div>
                             <small>
-                                <div>76.42%</div>
+                                <div>76.41%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -258,7 +258,7 @@
                                 Python
                             </div>
                             <small>
-                                <div>15.49%</div>
+                                <div>15.5%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -2401,7 +2401,7 @@
                                     </defs>
                                     <svg xmlns="http://www.w3.org/2000/svg" class="gauge info">
                                         <circle class="gauge-base" r="25" cx="28" cy="28"/>
-                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="82.80458590006845 155"/>
+                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="83.01676933607119 155"/>
                                     </svg>
                                     <svg xmlns="http://www.w3.org/2000/svg" mask="url(#mask)">
                                         <g xmlns="http://www.w3.org/2000/svg" transform="translate(5 4)" fill="none" fill-rule="evenodd">
@@ -2512,7 +2512,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Influencer
-                                    <span class="gh">ranked 158k out of 116m users</span>
+                                    <span class="gh">ranked 149k out of 116m users</span>
                                     <div class="value-wrapper">
                                         <div class="value">62</div>
                                     </div>
@@ -2803,7 +2803,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Inspirer
-                                    <span class="gh">ranked 4.69m out of 403m repositories</span>
+                                    <span class="gh">ranked 4.76m out of 403m repositories</span>
                                     <div class="value-wrapper">
                                         <div class="value">1</div>
                                     </div>
@@ -2942,7 +2942,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 22 May 2023, 12:35:44  with lowlighter/metrics@3.33.0</span>
+                <span>Last updated 22 May 2023, 18:22:30  with lowlighter/metrics@3.33.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
