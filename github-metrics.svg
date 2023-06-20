@@ -219,10 +219,10 @@
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="351.56544559618766" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="351.56544559618766" y="0" width="71.25405576082841" height="8" fill="#3572A5"/>
-                    <rect mask="url(#languages-bar)" x="422.819501357016" y="0" width="27.67768181124843" height="8" fill="#b07219"/>
-                    <rect mask="url(#languages-bar)" x="450.4971831682644" y="0" width="9.502816831735531" height="8" fill="#e34c26"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="351.56343300215786" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="351.56343300215786" y="0" width="71.26092293038108" height="8" fill="#3572A5"/>
+                    <rect mask="url(#languages-bar)" x="422.824355932539" y="0" width="27.671251537987054" height="8" fill="#b07219"/>
+                    <rect mask="url(#languages-bar)" x="450.495607470526" y="0" width="9.504392529474021" height="8" fill="#e34c26"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
@@ -2406,7 +2406,7 @@
                                     </defs>
                                     <svg xmlns="http://www.w3.org/2000/svg" class="gauge info">
                                         <circle class="gauge-base" r="25" cx="28" cy="28"/>
-                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="82.38021902806298 155"/>
+                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="82.59240246406571 155"/>
                                     </svg>
                                     <svg xmlns="http://www.w3.org/2000/svg" mask="url(#mask)">
                                         <g xmlns="http://www.w3.org/2000/svg" transform="translate(5 4)" fill="none" fill-rule="evenodd">
@@ -2808,7 +2808,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Inspirer
-                                    <span class="gh">ranked 4.54m out of 409m repositories</span>
+                                    <span class="gh">ranked 4.66m out of 409m repositories</span>
                                     <div class="value-wrapper">
                                         <div class="value">1</div>
                                     </div>
@@ -2947,7 +2947,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 20 Jun 2023, 12:38:33  with lowlighter/metrics@3.33.0</span>
+                <span>Last updated 20 Jun 2023, 18:21:46  with lowlighter/metrics@3.33.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
