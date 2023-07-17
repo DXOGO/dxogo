@@ -52,9 +52,9 @@ jobs:
           plugin_languages_ignored: >-
             scss, css, php, roff, xslt
           plugin_languages_details: percentage
-          plugin_achievements: yes
-          plugin_achievements_threshold: C
-          plugin_achievements_display: compact
+         # plugin_achievements: yes
+         # plugin_achievements_threshold: C
+         # plugin_achievements_display: compact
           plugin_languages_skipped: dxogo
           plugin_languages_threshold: 1%
           
