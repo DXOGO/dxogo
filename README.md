@@ -1,5 +1,4 @@
-#### BSc in Computer Science and Engineering @ University of Aveiro
-#### MSc in Communication and Web Technologies @ University of Aveiro
+#### Welcome to my Github 👋
 
 ### Contact me:
 
