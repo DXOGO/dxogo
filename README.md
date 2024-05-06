@@ -1,5 +1,5 @@
 #### BSc in Computer Science and Engineering @ University of Aveiro
-#### Master's Student in Communication and Web Technologies
+#### Master's Student in Communication and Web Technologies @ University of Aveiro
 
 ### Contact me:
 
