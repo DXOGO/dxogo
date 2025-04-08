@@ -9,9 +9,9 @@
   <img align="left" src="/github-metrics.svg" />
 </p>
 
-<!--
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=dxogo&cover_image=true&theme=default)](https://spotify-github-profile.vercel.app/api/view?uid=dxogo&redirect=true)
 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=dxogo&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false)](https://github.com/kittinan/spotify-github-profile)
+<!--
 ![Snake gif](https://github.com/DXOGO/dxogo/blob/output/github-contribution-grid-snake.svg)
 -->
